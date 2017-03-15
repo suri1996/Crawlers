@@ -1,0 +1,14 @@
+setup.py
+articles/__init__.py
+articles/items.py
+articles/middlewares.py
+articles/pipelines.py
+articles/settings.py
+articles.egg-info/PKG-INFO
+articles.egg-info/SOURCES.txt
+articles.egg-info/dependency_links.txt
+articles.egg-info/entry_points.txt
+articles.egg-info/not-zip-safe
+articles.egg-info/top_level.txt
+articles/spiders/__init__.py
+articles/spiders/articles.py
